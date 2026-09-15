@@ -14,7 +14,7 @@ The first version answers a simple client-style question:
 - Produces a ranked scorecard and a visual summary.
 - Keeps the methodology intentionally interpretable: every ranking can be traced to an input metric.
 
-This is an early-stage project. Planned extensions include company fundamentals, earnings-call theme classification with financial NLP, and an optional Bloomberg BQL data connector. Bloomberg is **not** used in the current version.
+This is an early-stage project. Planned extensions include company fundamentals, earnings-call theme classification with financial NLP, and an optional Bloomberg BQL data connector. 
 
 ## Initial universe
 
@@ -68,4 +68,4 @@ requirements.txt         Python dependencies
 
 ## Disclaimer
 
-This project is for educational and recruitment-portfolio purposes only. It is not investment advice. Market data is retrieved from Yahoo Finance's public chart endpoint and may be delayed or incomplete.
+Market data is retrieved from Yahoo Finance's public chart endpoint and may be delayed or incomplete.
