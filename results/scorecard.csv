@@ -1,0 +1,13 @@
+ticker,company,country,theme,return_12m,momentum_6m,volatility_12m,max_drawdown_2y,return_score,momentum_score,volatility_score,drawdown_score,composite_score
+ABBN.SW,ABB,Switzerland,Electrification and automation,0.3930,0.1528,0.2791,-0.2610,0.6667,0.6667,1.0000,0.9167,79.5833
+SIE.DE,Siemens,Germany,Industrial automation,0.1592,0.1866,0.3250,-0.2733,0.5000,0.8333,0.5833,0.8333,68.3333
+MT.AS,ArcelorMittal,Luxembourg,Materials,1.1686,0.3939,0.4203,-0.3192,1.0000,1.0000,0.1667,0.3333,66.6667
+AIR.PA,Airbus,France,Aerospace,0.0349,0.1650,0.2909,-0.2771,0.3333,0.7500,0.9167,0.7500,65.8333
+SAND.ST,Sandvik,Sweden,Industrial technology,0.4632,0.0502,0.3067,-0.2784,0.8333,0.3333,0.7500,0.6667,65.0000
+PRY.MI,Prysmian,Italy,Grid infrastructure,0.4651,0.1902,0.4118,-0.4354,0.9167,0.9167,0.3333,0.2500,63.3333
+SAF.PA,Safran,France,Aerospace,0.1444,0.0630,0.3287,-0.2362,0.4167,0.4167,0.5000,1.0000,57.9167
+SU.PA,Schneider Electric,France,Electrification and automation,0.2018,0.1036,0.3325,-0.3134,0.5833,0.5000,0.4167,0.4167,48.7500
+ENR.DE,Siemens Energy,Germany,Energy infrastructure,0.4033,-0.1256,0.5040,-0.2929,0.7500,0.1667,0.0833,0.5833,42.9167
+VOW3.DE,Volkswagen,Germany,Mobility,-0.1132,-0.0226,0.2922,-0.3130,0.1667,0.2500,0.8333,0.5000,40.4167
+RNO.PA,Renault,France,Mobility,-0.0967,0.1363,0.3152,-0.4610,0.2500,0.5833,0.6667,0.1667,39.5833
+ALO.PA,Alstom,France,Rail infrastructure,-0.2647,-0.3594,0.4200,-0.4972,0.0833,0.0833,0.2500,0.0833,11.6667
