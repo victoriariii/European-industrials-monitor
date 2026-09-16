@@ -49,6 +49,10 @@ python src/analyze.py
 
 Generated files are saved in `results/`.
 
+## Automatic updates
+
+The GitHub Actions workflow in `.github/workflows/update-data.yml` refreshes the market data and scorecard every Monday at 19:17 Europe/Paris time. It can also be run manually from the repository's **Actions** tab by selecting **Update market data** and choosing **Run workflow**.
+
 ## Repository structure
 
 ```text
