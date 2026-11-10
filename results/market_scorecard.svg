@@ -4,41 +4,41 @@
 <text x="24" y="34" font-size="22" font-weight="700">European Industrials Market Scorecard</text>
 <text x="24" y="58" class="note">Relative score based on momentum, volatility and drawdown resilience</text>
 <text x="24" y="106" class="label">Airbus</text>
-<rect x="220" y="90" width="488.0" height="22" rx="3" fill="#175cd3"/>
-<text x="716.0" y="106" class="value">76.2</text>
+<rect x="220" y="90" width="472.0" height="22" rx="3" fill="#175cd3"/>
+<text x="700.0" y="106" class="value">73.8</text>
 <text x="24" y="140" class="label">Sandvik</text>
-<rect x="220" y="124" width="469.3" height="22" rx="3" fill="#175cd3"/>
-<text x="697.3" y="140" class="value">73.3</text>
-<text x="24" y="174" class="label">Siemens</text>
-<rect x="220" y="158" width="464.0" height="22" rx="3" fill="#175cd3"/>
-<text x="692.0" y="174" class="value">72.5</text>
+<rect x="220" y="124" width="472.0" height="22" rx="3" fill="#175cd3"/>
+<text x="700.0" y="140" class="value">73.8</text>
+<text x="24" y="174" class="label">Safran</text>
+<rect x="220" y="158" width="450.7" height="22" rx="3" fill="#175cd3"/>
+<text x="678.7" y="174" class="value">70.4</text>
 <text x="24" y="208" class="label">ABB</text>
-<rect x="220" y="192" width="461.3" height="22" rx="3" fill="#98a2b3"/>
-<text x="689.3" y="208" class="value">72.1</text>
+<rect x="220" y="192" width="450.7" height="22" rx="3" fill="#98a2b3"/>
+<text x="678.7" y="208" class="value">70.4</text>
 <text x="24" y="242" class="label">ArcelorMittal</text>
-<rect x="220" y="226" width="461.3" height="22" rx="3" fill="#98a2b3"/>
-<text x="689.3" y="242" class="value">72.1</text>
-<text x="24" y="276" class="label">Safran</text>
-<rect x="220" y="260" width="408.0" height="22" rx="3" fill="#98a2b3"/>
-<text x="636.0" y="276" class="value">63.7</text>
+<rect x="220" y="226" width="448.0" height="22" rx="3" fill="#98a2b3"/>
+<text x="676.0" y="242" class="value">70.0</text>
+<text x="24" y="276" class="label">Siemens</text>
+<rect x="220" y="260" width="437.3" height="22" rx="3" fill="#98a2b3"/>
+<text x="665.3" y="276" class="value">68.3</text>
 <text x="24" y="310" class="label">Schneider Electric</text>
-<rect x="220" y="294" width="309.3" height="22" rx="3" fill="#98a2b3"/>
-<text x="537.3" y="310" class="value">48.3</text>
-<text x="24" y="344" class="label">Prysmian</text>
-<rect x="220" y="328" width="264.0" height="22" rx="3" fill="#98a2b3"/>
-<text x="492.0" y="344" class="value">41.2</text>
-<text x="24" y="378" class="label">Volkswagen</text>
-<rect x="220" y="362" width="245.3" height="22" rx="3" fill="#98a2b3"/>
-<text x="473.3" y="378" class="value">38.3</text>
-<text x="24" y="412" class="label">Renault</text>
-<rect x="220" y="396" width="242.7" height="22" rx="3" fill="#98a2b3"/>
-<text x="470.7" y="412" class="value">37.9</text>
+<rect x="220" y="294" width="322.7" height="22" rx="3" fill="#98a2b3"/>
+<text x="550.7" y="310" class="value">50.4</text>
+<text x="24" y="344" class="label">Volkswagen</text>
+<rect x="220" y="328" width="282.7" height="22" rx="3" fill="#98a2b3"/>
+<text x="510.7" y="344" class="value">44.2</text>
+<text x="24" y="378" class="label">Renault</text>
+<rect x="220" y="362" width="269.3" height="22" rx="3" fill="#98a2b3"/>
+<text x="497.3" y="378" class="value">42.1</text>
+<text x="24" y="412" class="label">Prysmian</text>
+<rect x="220" y="396" width="258.7" height="22" rx="3" fill="#98a2b3"/>
+<text x="486.7" y="412" class="value">40.4</text>
 <text x="24" y="446" class="label">Siemens Energy</text>
-<rect x="220" y="430" width="205.3" height="22" rx="3" fill="#98a2b3"/>
-<text x="433.3" y="446" class="value">32.1</text>
+<rect x="220" y="430" width="232.0" height="22" rx="3" fill="#98a2b3"/>
+<text x="460.0" y="446" class="value">36.2</text>
 <text x="24" y="480" class="label">Alstom</text>
-<rect x="220" y="464" width="141.3" height="22" rx="3" fill="#98a2b3"/>
-<text x="369.3" y="480" class="value">22.1</text>
+<rect x="220" y="464" width="64.0" height="22" rx="3" fill="#98a2b3"/>
+<text x="292.0" y="480" class="value">10.0</text>
 <text x="24" y="550" class="note">Weights: 12m return 30% | 6m momentum 25% | inverse volatility 20% | drawdown resilience 25%</text>
 <text x="24" y="568" class="note">Source: Yahoo Finance public chart endpoint. Educational analysis; not investment advice.</text>
 </svg>

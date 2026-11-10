@@ -1,13 +1,13 @@
 ticker,company,country,theme,return_12m,momentum_6m,volatility_12m,max_drawdown_2y,return_score,momentum_score,volatility_score,drawdown_score,composite_score
-AIR.PA,Airbus,France,Aerospace,-0.0772,0.0696,0.2955,-0.2771,0.4167,1.0000,1.0000,0.7500,76.2500
-SAND.ST,Sandvik,Sweden,Industrial technology,0.2668,-0.0274,0.3211,-0.2784,0.8333,0.6667,0.7500,0.6667,73.3333
-SIE.DE,Siemens,Germany,Industrial automation,0.1073,0.0026,0.3317,-0.2733,0.5833,0.8333,0.6667,0.8333,72.5000
-ABBN.SW,ABB,Switzerland,Electrification and automation,0.2396,-0.1383,0.2977,-0.2610,0.7500,0.3333,0.9167,0.9167,72.0833
-MT.AS,ArcelorMittal,Luxembourg,Materials,0.6757,0.0346,0.4214,-0.3192,1.0000,0.9167,0.3333,0.5000,72.0833
-SAF.PA,Safran,France,Aerospace,-0.0916,-0.0262,0.3479,-0.2525,0.3333,0.7500,0.5000,1.0000,63.7500
-SU.PA,Schneider Electric,France,Electrification and automation,-0.0043,-0.1151,0.3597,-0.3134,0.5000,0.4167,0.4167,0.5833,48.3333
-PRY.MI,Prysmian,Italy,Grid infrastructure,0.2708,-0.2739,0.4321,-0.4354,0.9167,0.1667,0.1667,0.2500,41.2500
-VOW3.DE,Volkswagen,Germany,Mobility,-0.2049,-0.1524,0.2977,-0.3458,0.1667,0.2500,0.8333,0.4167,38.3333
-RNO.PA,Renault,France,Mobility,-0.1364,-0.0332,0.3347,-0.4696,0.2500,0.5833,0.5833,0.1667,37.9167
-ENR.DE,Siemens Energy,Germany,Energy infrastructure,0.1884,-0.2875,0.5160,-0.3674,0.6667,0.0833,0.0833,0.3333,32.0833
-ALO.PA,Alstom,France,Rail infrastructure,-0.2681,-0.0864,0.4271,-0.5127,0.0833,0.5000,0.2500,0.0833,22.0833
+AIR.PA,Airbus,France,Aerospace,-0.0565,0.1713,0.2980,-0.2771,0.3333,1.0000,1.0000,0.7500,73.7500
+SAND.ST,Sandvik,Sweden,Industrial technology,0.2379,0.0105,0.3213,-0.2784,0.9167,0.5833,0.7500,0.6667,73.7500
+SAF.PA,Safran,France,Aerospace,-0.0367,0.1010,0.3512,-0.2525,0.4167,0.9167,0.5000,1.0000,70.4167
+ABBN.SW,ABB,Switzerland,Electrification and automation,0.1838,-0.1836,0.3015,-0.2610,0.7500,0.3333,0.8333,0.9167,70.4167
+MT.AS,ArcelorMittal,Luxembourg,Materials,0.5805,0.0515,0.4226,-0.3192,1.0000,0.8333,0.3333,0.5000,70.0000
+SIE.DE,Siemens,Germany,Industrial automation,0.0753,0.0156,0.3320,-0.2733,0.5833,0.6667,0.6667,0.8333,68.3333
+SU.PA,Schneider Electric,France,Electrification and automation,-0.0287,-0.1331,0.3596,-0.3134,0.5000,0.5000,0.4167,0.5833,50.4167
+VOW3.DE,Volkswagen,Germany,Mobility,-0.2444,-0.1528,0.3007,-0.3458,0.1667,0.4167,0.9167,0.4167,44.1667
+RNO.PA,Renault,France,Mobility,-0.1476,0.0180,0.3366,-0.4696,0.2500,0.7500,0.5833,0.1667,42.0833
+PRY.MI,Prysmian,Italy,Grid infrastructure,0.1934,-0.3405,0.4364,-0.4354,0.8333,0.1667,0.2500,0.2500,40.4167
+ENR.DE,Siemens Energy,Germany,Energy infrastructure,0.1048,-0.3034,0.5229,-0.3932,0.6667,0.2500,0.0833,0.3333,36.2500
+ALO.PA,Alstom,France,Rail infrastructure,-0.5311,-0.3716,0.4990,-0.6409,0.0833,0.0833,0.1667,0.0833,10.0000
