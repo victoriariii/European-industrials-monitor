@@ -38,6 +38,20 @@ The financial graphic is generated directly from `data/financials_reviewed_2025.
 
 Reported financial measures are not always directly comparable: Airbus free cash flow before customer financing, Safran reported free cash flow, and Siemens total free cash flow use different definitions. The underlying dataset retains additional reported and adjusted metrics, and some manually supplied figures require further source verification. Valuation ratios refer to historical dates rather than live market prices.
 
+## Valuation & M&A Analysis
+
+Historical valuation multiples and capital-efficiency indicators
+for Airbus, Safran and Siemens.
+
+![European Industrials Valuation Dashboard](results/valuation_dashboard.svg)
+
+The analysis compares EV/EBITDA, EV/EBIT, P/E and ROIC
+across FY2024 and FY2025.
+
+Valuation multiples reflect historical fiscal year-end data.
+Accounting definitions and valuation methodologies may differ
+between companies.
+
 ## Run locally
 
 ```bash

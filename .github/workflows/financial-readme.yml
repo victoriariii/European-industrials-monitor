@@ -1,0 +1,39 @@
+name: Update financial README graphics
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/financials_reviewed_2025.csv'
+      - 'generate_financial_readme.py'
+      - 'generate_valuation_readme.py'
+      - '.github/workflows/financial-readme.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-graphics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate financial and valuation SVGs
+        run: |
+          python generate_financial_readme.py
+          python generate_valuation_readme.py
+      - name: Commit updated graphics if changed
+        run: |
+          git add -f results/financial_dashboard.svg results/valuation_dashboard.svg
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Refresh financial and valuation README graphics"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
