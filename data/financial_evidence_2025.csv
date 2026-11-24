@@ -1,0 +1,215 @@
+company,fiscal_year,metric,value,unit,source_file,pdf_page,source_label,verification,fiscal_year_end
+Airbus,2025,revenue,73420,EUR million,Airbus__FY2025.pdf,4,Revenue,page_checked,12-31
+Airbus,2024,revenue,69230,EUR million,Airbus__FY2025.pdf,4,Revenue,page_checked,12-31
+Airbus,2025,cost_of_sales,-62453,EUR million,Airbus__FY2025.pdf,4,Cost of sales,page_checked,12-31
+Airbus,2024,cost_of_sales,-58555,EUR million,Airbus__FY2025.pdf,4,Cost of sales,page_checked,12-31
+Airbus,2025,gross_profit,10967,EUR million,Airbus__FY2025.pdf,4,Gross margin,page_checked,12-31
+Airbus,2024,gross_profit,10675,EUR million,Airbus__FY2025.pdf,4,Gross margin,page_checked,12-31
+Airbus,2025,rd_expense,-3153,EUR million,Airbus__FY2025.pdf,4,Research and development expenses,page_checked,12-31
+Airbus,2024,rd_expense,-3250,EUR million,Airbus__FY2025.pdf,4,Research and development expenses,page_checked,12-31
+Airbus,2025,ebit,6082,EUR million,Airbus__FY2025.pdf,4,Profit before financial result and income taxes,page_checked,12-31
+Airbus,2024,ebit,5304,EUR million,Airbus__FY2025.pdf,4,Profit before financial result and income taxes,page_checked,12-31
+Airbus,2025,ebit_adjusted,7128,EUR million,Airbus__FY2025.pdf,,EBIT Adjusted; FY2025 figure supplied by user; page not independently checked,user_supplied_unverified,12-31
+Airbus,2025,fcf_before_customer_financing,4574,EUR million,Airbus__FY2025.pdf,,Free Cash Flow before Customer Financing; FY2025 figure supplied by user; not identical to simple FCF,user_supplied_unverified,12-31
+Airbus,2025,net_income,5221,EUR million,Airbus__FY2025.pdf,4,Equity owners of the parent (Net Income),page_checked,12-31
+Airbus,2024,net_income,4232,EUR million,Airbus__FY2025.pdf,4,Equity owners of the parent (Net Income),page_checked,12-31
+Airbus,2025,net_income_group,4960,EUR million,Airbus__FY2025.pdf,4,Profit for the period,page_checked,12-31
+Airbus,2024,net_income_group,4078,EUR million,Airbus__FY2025.pdf,4,Profit for the period,page_checked,12-31
+Airbus,2025,eps_basic_eur,6.61,EUR/share,Airbus__FY2025.pdf,4,Basic earnings per share,page_checked,12-31
+Airbus,2024,eps_basic_eur,5.36,EUR/share,Airbus__FY2025.pdf,4,Basic earnings per share,page_checked,12-31
+Airbus,2025,total_assets,134939,EUR million,Airbus__FY2025.pdf,6,Total assets,page_checked,12-31
+Airbus,2024,total_assets,129213,EUR million,Airbus__FY2025.pdf,6,Total assets,page_checked,12-31
+Airbus,2025,inventories,41676,EUR million,Airbus__FY2025.pdf,6,Inventories,page_checked,12-31
+Airbus,2024,inventories,37745,EUR million,Airbus__FY2025.pdf,6,Inventories,page_checked,12-31
+Airbus,2025,trade_receivables,5454,EUR million,Airbus__FY2025.pdf,6,Trade receivables,page_checked,12-31
+Airbus,2024,trade_receivables,5293,EUR million,Airbus__FY2025.pdf,6,Trade receivables,page_checked,12-31
+Airbus,2025,cash,14128,EUR million,Airbus__FY2025.pdf,6,Cash and cash equivalents,page_checked,12-31
+Airbus,2024,cash,15003,EUR million,Airbus__FY2025.pdf,6,Cash and cash equivalents,page_checked,12-31
+Airbus,2025,total_equity,26184,EUR million,Airbus__FY2025.pdf,7,Total equity,page_checked,12-31
+Airbus,2024,total_equity,19696,EUR million,Airbus__FY2025.pdf,7,Total equity,page_checked,12-31
+Airbus,2025,trade_payables,15878,EUR million,Airbus__FY2025.pdf,7,Trade liabilities,page_checked,12-31
+Airbus,2024,trade_payables,13791,EUR million,Airbus__FY2025.pdf,7,Trade liabilities,page_checked,12-31
+Airbus,2025,current_assets,73584,EUR million,Airbus__FY2025.pdf,6,Total current assets,page_checked,12-31
+Airbus,2024,current_assets,69371,EUR million,Airbus__FY2025.pdf,6,Total current assets,page_checked,12-31
+Airbus,2025,current_liabilities,63429,EUR million,Airbus__FY2025.pdf,7,Total current liabilities,page_checked,12-31
+Airbus,2024,current_liabilities,60548,EUR million,Airbus__FY2025.pdf,7,Total current liabilities,page_checked,12-31
+Airbus,2025,short_term_debt,5186,EUR million,Airbus__FY2025.pdf,7,Short-term financing liabilities,page_checked,12-31
+Airbus,2024,short_term_debt,3924,EUR million,Airbus__FY2025.pdf,7,Short-term financing liabilities,page_checked,12-31
+Airbus,2025,long_term_debt,9063,EUR million,Airbus__FY2025.pdf,7,Long-term financing liabilities,page_checked,12-31
+Airbus,2024,long_term_debt,10355,EUR million,Airbus__FY2025.pdf,7,Long-term financing liabilities,page_checked,12-31
+Airbus,2025,operating_cash_flow,7995,EUR million,Airbus__FY2025.pdf,8,Cash provided by operating activities,page_checked,12-31
+Airbus,2024,operating_cash_flow,7402,EUR million,Airbus__FY2025.pdf,8,Cash provided by operating activities,page_checked,12-31
+Airbus,2025,capex_cash_outflow,3964,EUR million,Airbus__FY2025.pdf,8,"Purchases of intangible assets, property, plant and equipment, investment property",page_checked,12-31
+Airbus,2024,capex_cash_outflow,3669,EUR million,Airbus__FY2025.pdf,8,"Purchases of intangible assets, property, plant and equipment, investment property",page_checked,12-31
+Airbus,2025,depreciation_amortization,3133,EUR million,Airbus__FY2025.pdf,8,Depreciation and amortisation,page_checked,12-31
+Airbus,2024,depreciation_amortization,2853,EUR million,Airbus__FY2025.pdf,8,Depreciation and amortisation,page_checked,12-31
+Airbus,2025,ebitda,9215,EUR million,Airbus__FY2025.pdf,,Calculated EBIT + D&A; not company-reported EBITDA,user_supplied_unverified,12-31
+Airbus,2024,ebitda,8157,EUR million,Airbus__FY2025.pdf,,Calculated EBIT + D&A; not company-reported EBITDA,user_supplied_unverified,12-31
+Airbus,2025,net_debt,-12200,EUR million,Airbus__FY2025.pdf,,Company net cash definition; negative denotes net cash,user_supplied_unverified,12-31
+Airbus,2024,net_debt,-11753,EUR million,Airbus__FY2025.pdf,,Company net cash definition; negative denotes net cash,user_supplied_unverified,12-31
+Airbus,2025,roic_pct,12.2,percent,Airbus__FY2025.pdf,,Third-party standardized ROIC estimate; definition not verified,user_supplied_unverified,12-31
+Airbus,2024,roic_pct,11.6,percent,Airbus__FY2025.pdf,,Third-party standardized ROIC estimate; definition not verified,user_supplied_unverified,12-31
+Airbus,2025,pe,30.0,multiple,Airbus__FY2025.pdf,,FY-end price / IFRS EPS; historical snapshot,user_supplied_unverified,12-31
+Airbus,2024,pe,28.9,multiple,Airbus__FY2025.pdf,,FY-end price / IFRS EPS; historical snapshot,user_supplied_unverified,12-31
+Airbus,2025,ev_ebitda_low,15.7,multiple,Airbus__FY2025.pdf,,Indicative historical EV/EBITDA range lower bound,user_supplied_unverified,12-31
+Airbus,2024,ev_ebitda_low,13.6,multiple,Airbus__FY2025.pdf,,Indicative historical EV/EBITDA range lower bound,user_supplied_unverified,12-31
+Airbus,2025,ev_ebitda_high,19.9,multiple,Airbus__FY2025.pdf,,Indicative historical EV/EBITDA range upper bound,user_supplied_unverified,12-31
+Airbus,2024,ev_ebitda_high,17.8,multiple,Airbus__FY2025.pdf,,Indicative historical EV/EBITDA range upper bound,user_supplied_unverified,12-31
+Airbus,2025,ev_ebit_low,23.8,multiple,Airbus__FY2025.pdf,,Indicative historical EV/EBIT range lower bound,user_supplied_unverified,12-31
+Airbus,2024,ev_ebit_low,20.8,multiple,Airbus__FY2025.pdf,,Indicative historical EV/EBIT range lower bound,user_supplied_unverified,12-31
+Airbus,2025,ev_ebit_high,27.6,multiple,Airbus__FY2025.pdf,,Indicative historical EV/EBIT range upper bound,user_supplied_unverified,12-31
+Airbus,2024,ev_ebit_high,25.5,multiple,Airbus__FY2025.pdf,,Indicative historical EV/EBIT range upper bound,user_supplied_unverified,12-31
+Airbus,2025,dividend_per_share_eur,3.2,EUR/share,Airbus__FY2025.pdf,,FY2025 approved dividend; FY2024 includes EUR 1 special,user_supplied_unverified,12-31
+Airbus,2024,dividend_per_share_eur,3.0,EUR/share,Airbus__FY2025.pdf,,FY2025 approved dividend; FY2024 includes EUR 1 special,user_supplied_unverified,12-31
+Safran,2025,revenue,31189,EUR million,Safran__FY2025.pdf,201,"Revenue (consolidated, not adjusted)",page_checked,12-31
+Safran,2024,revenue,27716,EUR million,Safran__FY2025.pdf,201,"Revenue (consolidated, not adjusted)",page_checked,12-31
+Safran,2025,revenue_adjusted,31329,EUR million,Safran__FY2025.pdf,67,Adjusted revenue; FY2024 and FY2025,page_checked,12-31
+Safran,2024,revenue_adjusted,27317,EUR million,Safran__FY2025.pdf,67,Adjusted revenue; FY2024 and FY2025,page_checked,12-31
+Safran,2025,recurring_operating_income_adjusted,5197,EUR million,Safran__FY2025.pdf,67,Adjusted recurring operating income,page_checked,12-31
+Safran,2024,recurring_operating_income_adjusted,4119,EUR million,Safran__FY2025.pdf,67,Adjusted recurring operating income,page_checked,12-31
+Safran,2025,net_income_adjusted,3174,EUR million,Safran__FY2025.pdf,67,Adjusted net income attributable to owners of parent,page_checked,12-31
+Safran,2024,net_income_adjusted,3068,EUR million,Safran__FY2025.pdf,67,Adjusted net income attributable to owners of parent,page_checked,12-31
+Safran,2025,eps_basic_adjusted_eur,7.6,EUR/share,Safran__FY2025.pdf,67,Adjusted basic EPS,page_checked,12-31
+Safran,2024,eps_basic_adjusted_eur,7.37,EUR/share,Safran__FY2025.pdf,67,Adjusted basic EPS,page_checked,12-31
+Safran,2025,free_cash_flow_reported,3921,EUR million,Safran__FY2025.pdf,,Safran FY2025 results press release: free cash flow,user_supplied_unverified,12-31
+Safran,2024,free_cash_flow_reported,3189,EUR million,Safran__FY2025.pdf,,Safran FY2025 results press release: free cash flow,user_supplied_unverified,12-31
+Safran,2025,ebitda_company_adjusted,6318,EUR million,Safran__FY2025.pdf,,Safran FY2025 results press release: adjusted cash flow highlights EBITDA,user_supplied_unverified,12-31
+Safran,2024,ebitda_company_adjusted,5417,EUR million,Safran__FY2025.pdf,,Safran FY2025 results press release: adjusted cash flow highlights EBITDA,user_supplied_unverified,12-31
+Safran,2025,net_cash_company_reported,1738,EUR million,Safran__FY2025.pdf,,Safran FY2025 results press release: net cash at period end,user_supplied_unverified,12-31
+Safran,2024,net_cash_company_reported,1738,EUR million,Safran__FY2025.pdf,,Safran FY2025 results press release: net cash at period end,user_supplied_unverified,12-31
+Safran,2025,dividend_per_share_proposed_eur,3.35,EUR/share,Safran__FY2025.pdf,,Safran FY2025 results press release: FY2025 proposed; FY2024 prior-year dividend,user_supplied_unverified,12-31
+Safran,2024,dividend_per_share_proposed_eur,2.9,EUR/share,Safran__FY2025.pdf,,Safran FY2025 results press release: FY2025 proposed; FY2024 prior-year dividend,user_supplied_unverified,12-31
+Safran,2025,gross_operating_income,31656,EUR million,Safran__FY2025.pdf,201,Income from operations (not EBIT),page_checked,12-31
+Safran,2024,gross_operating_income,28154,EUR million,Safran__FY2025.pdf,201,Income from operations (not EBIT),page_checked,12-31
+Safran,2025,recurring_operating_income,4787,EUR million,Safran__FY2025.pdf,201,Recurring operating income (consolidated),page_checked,12-31
+Safran,2024,recurring_operating_income,4186,EUR million,Safran__FY2025.pdf,201,Recurring operating income (consolidated),page_checked,12-31
+Safran,2025,ebit,4308,EUR million,Safran__FY2025.pdf,201,Profit from operations,page_checked,12-31
+Safran,2024,ebit,4192,EUR million,Safran__FY2025.pdf,201,Profit from operations,page_checked,12-31
+Safran,2025,net_income,7177,EUR million,Safran__FY2025.pdf,201,Profit attributable to owners of the parent,page_checked,12-31
+Safran,2024,net_income,-667,EUR million,Safran__FY2025.pdf,201,Profit attributable to owners of the parent,page_checked,12-31
+Safran,2025,net_income_group,7286,EUR million,Safran__FY2025.pdf,201,Profit (loss) for the period,page_checked,12-31
+Safran,2024,net_income_group,-575,EUR million,Safran__FY2025.pdf,201,Profit (loss) for the period,page_checked,12-31
+Safran,2025,eps_basic_eur,17.17,EUR/share,Safran__FY2025.pdf,201,Basic earnings (loss) per share,page_checked,12-31
+Safran,2024,eps_basic_eur,-1.6,EUR/share,Safran__FY2025.pdf,201,Basic earnings (loss) per share,page_checked,12-31
+Safran,2025,total_assets,61814,EUR million,Safran__FY2025.pdf,202,TOTAL ASSETS,page_checked,12-31
+Safran,2024,total_assets,55012,EUR million,Safran__FY2025.pdf,202,TOTAL ASSETS,page_checked,12-31
+Safran,2025,inventories,10285,EUR million,Safran__FY2025.pdf,202,Inventories and work-in-progress,page_checked,12-31
+Safran,2024,inventories,9491,EUR million,Safran__FY2025.pdf,202,Inventories and work-in-progress,page_checked,12-31
+Safran,2025,trade_receivables,14196,EUR million,Safran__FY2025.pdf,202,Trade and other receivables,page_checked,12-31
+Safran,2024,trade_receivables,10572,EUR million,Safran__FY2025.pdf,202,Trade and other receivables,page_checked,12-31
+Safran,2025,cash,6789,EUR million,Safran__FY2025.pdf,202,Cash and cash equivalents,page_checked,12-31
+Safran,2024,cash,6514,EUR million,Safran__FY2025.pdf,202,Cash and cash equivalents,page_checked,12-31
+Safran,2025,current_assets,38022,EUR million,Safran__FY2025.pdf,202,Current assets,page_checked,12-31
+Safran,2024,current_assets,31523,EUR million,Safran__FY2025.pdf,202,Current assets,page_checked,12-31
+Safran,2025,current_liabilities,41121,EUR million,Safran__FY2025.pdf,203,Current liabilities,page_checked,12-31
+Safran,2024,current_liabilities,37440,EUR million,Safran__FY2025.pdf,203,Current liabilities,page_checked,12-31
+Safran,2025,total_equity,15461,EUR million,Safran__FY2025.pdf,203,Total equity,page_checked,12-31
+Safran,2024,total_equity,10725,EUR million,Safran__FY2025.pdf,203,Total equity,page_checked,12-31
+Safran,2025,trade_payables,13444,EUR million,Safran__FY2025.pdf,203,Trade and other payables,page_checked,12-31
+Safran,2024,trade_payables,9802,EUR million,Safran__FY2025.pdf,203,Trade and other payables,page_checked,12-31
+Safran,2025,short_term_debt,2605,EUR million,Safran__FY2025.pdf,203,Current interest-bearing financial liabilities,page_checked,12-31
+Safran,2024,short_term_debt,988,EUR million,Safran__FY2025.pdf,203,Current interest-bearing financial liabilities,page_checked,12-31
+Safran,2025,long_term_debt,2446,EUR million,Safran__FY2025.pdf,203,Non-current interest-bearing financial liabilities,page_checked,12-31
+Safran,2024,long_term_debt,3788,EUR million,Safran__FY2025.pdf,203,Non-current interest-bearing financial liabilities,page_checked,12-31
+Safran,2025,operating_cash_flow,5721,EUR million,Safran__FY2025.pdf,205,TOTAL I (cash flow from operating activities),page_checked,12-31
+Safran,2024,operating_cash_flow,4733,EUR million,Safran__FY2025.pdf,205,TOTAL I (cash flow from operating activities),page_checked,12-31
+Safran,2025,capex_cash_outflow,1800,EUR million,Safran__FY2025.pdf,205,"Capitalized R&D + purchases intangible assets + purchases PP&E, net",page_checked,12-31
+Safran,2024,capex_cash_outflow,1544,EUR million,Safran__FY2025.pdf,205,"Capitalized R&D + purchases intangible assets + purchases PP&E, net",page_checked,12-31
+Safran,2025,depreciation_amortization_impairment_provisions,1818,EUR million,Safran__FY2025.pdf,205,"Depreciation, amortization, impairment and provisions; NOT pure D&A",page_checked,12-31
+Safran,2024,depreciation_amortization_impairment_provisions,1691,EUR million,Safran__FY2025.pdf,205,"Depreciation, amortization, impairment and provisions; NOT pure D&A",page_checked,12-31
+Safran,2025,ebitda,6202,EUR million,Safran__FY2025.pdf,,Third-party EBITDA supplied earlier; NOT Safran company adjusted EBITDA (6318/5417),user_supplied_unverified,12-31
+Safran,2024,ebitda,5606,EUR million,Safran__FY2025.pdf,,Third-party EBITDA supplied earlier; NOT Safran company adjusted EBITDA (6318/5417),user_supplied_unverified,12-31
+Safran,2025,ebitda_standardized_low,5871,EUR million,Safran__FY2025.pdf,,Third-party standardized EBITDA; 2024 single estimate,user_supplied_unverified,12-31
+Safran,2024,ebitda_standardized_low,5160,EUR million,Safran__FY2025.pdf,,Third-party standardized EBITDA; 2024 single estimate,user_supplied_unverified,12-31
+Safran,2025,ebitda_standardized_high,5905,EUR million,Safran__FY2025.pdf,,Third-party standardized EBITDA; 2024 single estimate,user_supplied_unverified,12-31
+Safran,2024,ebitda_standardized_high,5160,EUR million,Safran__FY2025.pdf,,Third-party standardized EBITDA; 2024 single estimate,user_supplied_unverified,12-31
+Safran,2025,net_debt,-1738,EUR million,Safran__FY2025.pdf,,Safran company-reported net cash per FY2025 press release; debt less cash alone does not reproduce KPI,user_supplied_unverified,12-31
+Safran,2024,net_debt,-1738,EUR million,Safran__FY2025.pdf,,Safran company-reported net cash per FY2025 press release; debt less cash alone does not reproduce KPI,user_supplied_unverified,12-31
+Safran,2025,roic_pct,17.9,percent,Safran__FY2025.pdf,,Third-party standardized ROIC; methodology unverified,user_supplied_unverified,12-31
+Safran,2024,roic_pct,16.9,percent,Safran__FY2025.pdf,,Third-party standardized ROIC; methodology unverified,user_supplied_unverified,12-31
+Safran,2025,pe_adjusted,39.1,multiple,Safran__FY2025.pdf,,FY-end market cap / adjusted net income,user_supplied_unverified,12-31
+Safran,2024,pe_adjusted,28.8,multiple,Safran__FY2025.pdf,,FY-end market cap / adjusted net income,user_supplied_unverified,12-31
+Safran,2025,pe,17.3,multiple,Safran__FY2025.pdf,,"FY2025 FY-end market cap / consolidated IFRS net income; FY2024 negative EPS, N/A",user_supplied_unverified,12-31
+Safran,2025,ev_ebitda_low,19.7,multiple,Safran__FY2025.pdf,,User-supplied historical EV/EBITDA range,user_supplied_unverified,12-31
+Safran,2024,ev_ebitda_low,15.5,multiple,Safran__FY2025.pdf,,User-supplied historical EV/EBITDA range,user_supplied_unverified,12-31
+Safran,2025,ev_ebitda_high,20.5,multiple,Safran__FY2025.pdf,,User-supplied historical EV/EBITDA range,user_supplied_unverified,12-31
+Safran,2024,ev_ebitda_high,16.8,multiple,Safran__FY2025.pdf,,User-supplied historical EV/EBITDA range,user_supplied_unverified,12-31
+Safran,2025,ev_ebit_adjusted,23.6,multiple,Safran__FY2025.pdf,,EV / adjusted recurring operating income; not comparable to IFRS EBIT,user_supplied_unverified,12-31
+Safran,2024,ev_ebit_adjusted,21.0,multiple,Safran__FY2025.pdf,,EV / adjusted recurring operating income; not comparable to IFRS EBIT,user_supplied_unverified,12-31
+Safran,2025,ev_ebit_recurring_consolidated,25.6,multiple,Safran__FY2025.pdf,,EV / consolidated recurring operating income; not IFRS EBIT,user_supplied_unverified,12-31
+Safran,2024,ev_ebit_recurring_consolidated,20.7,multiple,Safran__FY2025.pdf,,EV / consolidated recurring operating income; not IFRS EBIT,user_supplied_unverified,12-31
+Safran,2025,raw_materials_consumables_expense,-17615,EUR million,Safran__FY2025.pdf,,Expense by nature; user supplied,user_supplied_unverified,12-31
+Safran,2024,raw_materials_consumables_expense,-15975,EUR million,Safran__FY2025.pdf,,Expense by nature; user supplied,user_supplied_unverified,12-31
+Safran,2025,personnel_costs,-8678,multiple,Safran__FY2025.pdf,,Expense by nature; user supplied,user_supplied_unverified,12-31
+Safran,2024,personnel_costs,-7792,multiple,Safran__FY2025.pdf,,Expense by nature; user supplied,user_supplied_unverified,12-31
+Safran,2025,dividend_per_share_eur,3.35,EUR/share,Safran__FY2025.pdf,,"FY2025 proposed; FY2024 dividend EUR 2.90, Safran FY2025 press release",user_supplied_unverified,12-31
+Safran,2024,dividend_per_share_eur,2.9,EUR/share,Safran__FY2025.pdf,,"FY2025 proposed; FY2024 dividend EUR 2.90, Safran FY2025 press release",user_supplied_unverified,12-31
+Siemens,2025,revenue,78914,EUR million,Siemens__FY2025.pdf,43,Revenue (continuing operations),page_checked,09-30
+Siemens,2024,revenue,75930,EUR million,Siemens__FY2025.pdf,43,Revenue (continuing operations),page_checked,09-30
+Siemens,2025,profit_industrial_business,11766,EUR million,Siemens__FY2025.pdf,,Profit Industrial Business; user supplied; reported margin 15.4%; not consolidated Group EBIT,user_supplied_unverified,09-30
+Siemens,2024,profit_industrial_business,11390,EUR million,Siemens__FY2025.pdf,,Profit Industrial Business; user supplied; reported margin 15.4%; not consolidated Group EBIT,user_supplied_unverified,09-30
+Siemens,2025,ebit,10179,EUR million,Siemens__FY2025.pdf,,"Consolidated Group EBIT EUR 10,179m; user supplied; definition and report page require verification",user_supplied_unverified,09-30
+Siemens,2025,cost_of_sales,-48515,EUR million,Siemens__FY2025.pdf,43,Cost of sales,page_checked,09-30
+Siemens,2024,cost_of_sales,-46107,EUR million,Siemens__FY2025.pdf,43,Cost of sales,page_checked,09-30
+Siemens,2025,gross_profit,30399,EUR million,Siemens__FY2025.pdf,43,Gross profit,page_checked,09-30
+Siemens,2024,gross_profit,29823,EUR million,Siemens__FY2025.pdf,43,Gross profit,page_checked,09-30
+Siemens,2025,rd_expense,-6559,EUR million,Siemens__FY2025.pdf,43,Research and development expenses,page_checked,09-30
+Siemens,2024,rd_expense,-6276,EUR million,Siemens__FY2025.pdf,43,Research and development expenses,page_checked,09-30
+Siemens,2025,net_income,9620,EUR million,Siemens__FY2025.pdf,43,Net income attributable to shareholders of Siemens AG,page_checked,09-30
+Siemens,2024,net_income,8301,EUR million,Siemens__FY2025.pdf,43,Net income attributable to shareholders of Siemens AG,page_checked,09-30
+Siemens,2025,net_income_group,10387,EUR million,Siemens__FY2025.pdf,43,Net income incl. discontinued operations,page_checked,09-30
+Siemens,2024,net_income_group,8992,EUR million,Siemens__FY2025.pdf,43,Net income incl. discontinued operations,page_checked,09-30
+Siemens,2025,net_income_continuing,8328,EUR million,Siemens__FY2025.pdf,43,Income from continuing operations,page_checked,09-30
+Siemens,2024,net_income_continuing,8907,EUR million,Siemens__FY2025.pdf,43,Income from continuing operations,page_checked,09-30
+Siemens,2025,eps_basic_eur,12.25,EUR/share,Siemens__FY2025.pdf,43,Basic earnings per share: net income,page_checked,09-30
+Siemens,2024,eps_basic_eur,10.53,EUR/share,Siemens__FY2025.pdf,43,Basic earnings per share: net income,page_checked,09-30
+Siemens,2025,total_assets,166202,EUR million,Siemens__FY2025.pdf,44,Total assets,page_checked,09-30
+Siemens,2024,total_assets,147812,EUR million,Siemens__FY2025.pdf,44,Total assets,page_checked,09-30
+Siemens,2025,inventories,10582,EUR million,Siemens__FY2025.pdf,44,Inventories,page_checked,09-30
+Siemens,2024,inventories,10923,EUR million,Siemens__FY2025.pdf,44,Inventories,page_checked,09-30
+Siemens,2025,trade_receivables,16628,EUR million,Siemens__FY2025.pdf,44,Trade and other receivables,page_checked,09-30
+Siemens,2024,trade_receivables,16963,EUR million,Siemens__FY2025.pdf,44,Trade and other receivables,page_checked,09-30
+Siemens,2025,cash,14495,EUR million,Siemens__FY2025.pdf,44,Cash and cash equivalents,page_checked,09-30
+Siemens,2024,cash,9156,EUR million,Siemens__FY2025.pdf,44,Cash and cash equivalents,page_checked,09-30
+Siemens,2025,current_assets,64711,EUR million,Siemens__FY2025.pdf,44,Total current assets,page_checked,09-30
+Siemens,2024,current_assets,61353,EUR million,Siemens__FY2025.pdf,44,Total current assets,page_checked,09-30
+Siemens,2025,current_liabilities,47261,EUR million,Siemens__FY2025.pdf,44,Total current liabilities,page_checked,09-30
+Siemens,2024,current_liabilities,43913,EUR million,Siemens__FY2025.pdf,44,Total current liabilities,page_checked,09-30
+Siemens,2025,total_equity,68371,EUR million,Siemens__FY2025.pdf,44,Total equity,page_checked,09-30
+Siemens,2024,total_equity,56231,EUR million,Siemens__FY2025.pdf,44,Total equity,page_checked,09-30
+Siemens,2025,trade_payables,9183,EUR million,Siemens__FY2025.pdf,44,Trade payables,page_checked,09-30
+Siemens,2024,trade_payables,8843,EUR million,Siemens__FY2025.pdf,44,Trade payables,page_checked,09-30
+Siemens,2025,short_term_debt,11174,EUR million,Siemens__FY2025.pdf,44,Short-term debt and current maturities of long-term debt,page_checked,09-30
+Siemens,2024,short_term_debt,6598,EUR million,Siemens__FY2025.pdf,44,Short-term debt and current maturities of long-term debt,page_checked,09-30
+Siemens,2025,long_term_debt,44841,EUR million,Siemens__FY2025.pdf,44,Long-term debt,page_checked,09-30
+Siemens,2024,long_term_debt,41321,EUR million,Siemens__FY2025.pdf,44,Long-term debt,page_checked,09-30
+Siemens,2025,operating_cash_flow,13448,EUR million,Siemens__FY2025.pdf,21,"Cash flows from operating activities, continuing operations",page_checked,09-30
+Siemens,2024,operating_cash_flow,11814,EUR million,Siemens__FY2025.pdf,21,"Cash flows from operating activities, continuing operations",page_checked,09-30
+Siemens,2025,capex_cash_outflow,2445,EUR million,Siemens__FY2025.pdf,21,"Additions to intangible assets and PP&E, continuing operations",page_checked,09-30
+Siemens,2024,capex_cash_outflow,2088,EUR million,Siemens__FY2025.pdf,21,"Additions to intangible assets and PP&E, continuing operations",page_checked,09-30
+Siemens,2025,free_cash_flow_reported,11004,EUR million,Siemens__FY2025.pdf,21,"Free cash flow, continuing operations",page_checked,09-30
+Siemens,2024,free_cash_flow_reported,9726,EUR million,Siemens__FY2025.pdf,21,"Free cash flow, continuing operations",page_checked,09-30
+Siemens,2025,depreciation_amortization_impairment,3389,EUR million,Siemens__FY2025.pdf,45,"Amortization, depreciation and impairments",page_checked,09-30
+Siemens,2024,depreciation_amortization_impairment,3158,EUR million,Siemens__FY2025.pdf,45,"Amortization, depreciation and impairments",page_checked,09-30
+Siemens,2025,ebitda,13380,EUR million,Siemens__FY2025.pdf,,User-supplied EBITDA; reporting perimeter requires checking,user_supplied_unverified,09-30
+Siemens,2024,ebitda,13577,EUR million,Siemens__FY2025.pdf,,User-supplied EBITDA; reporting perimeter requires checking,user_supplied_unverified,09-30
+Siemens,2025,industrial_net_debt,12160,EUR million,Siemens__FY2025.pdf,,Industrial net debt excluding Siemens Financial Services,user_supplied_unverified,09-30
+Siemens,2024,industrial_net_debt,9421,EUR million,Siemens__FY2025.pdf,,Industrial net debt excluding Siemens Financial Services,user_supplied_unverified,09-30
+Siemens,2025,industrial_net_debt_ebitda,0.9,multiple,Siemens__FY2025.pdf,,Company industrial leverage KPI,user_supplied_unverified,09-30
+Siemens,2024,industrial_net_debt_ebitda,0.7,multiple,Siemens__FY2025.pdf,,Company industrial leverage KPI,user_supplied_unverified,09-30
+Siemens,2025,roce_pct,17.8,percent,Siemens__FY2025.pdf,,Company ROCE KPI; NOT ROIC,user_supplied_unverified,09-30
+Siemens,2024,roce_pct,19.1,percent,Siemens__FY2025.pdf,,Company ROCE KPI; NOT ROIC,user_supplied_unverified,09-30
+Siemens,2025,roic_pct,6.9,percent,Siemens__FY2025.pdf,,Third-party standardized consolidated ROIC incl SFS,user_supplied_unverified,09-30
+Siemens,2024,roic_pct,8.26,percent,Siemens__FY2025.pdf,,Third-party standardized consolidated ROIC incl SFS,user_supplied_unverified,09-30
+Siemens,2025,pe,18.47,multiple,Siemens__FY2025.pdf,,Historical FY-end P/E; user supplied,user_supplied_unverified,09-30
+Siemens,2024,pe,17.02,multiple,Siemens__FY2025.pdf,,Historical FY-end P/E; user supplied,user_supplied_unverified,09-30
+Siemens,2025,ev_ebitda,19.62,multiple,Siemens__FY2025.pdf,,Historical FY-end EV/EBITDA; user supplied,user_supplied_unverified,09-30
+Siemens,2024,ev_ebitda,16.06,multiple,Siemens__FY2025.pdf,,Historical FY-end EV/EBITDA; user supplied,user_supplied_unverified,09-30
+Siemens,2025,ev_ebit,24.77,multiple,Siemens__FY2025.pdf,,Historical FY-end EV/EBIT; user supplied,user_supplied_unverified,09-30
+Siemens,2024,ev_ebit,19.83,multiple,Siemens__FY2025.pdf,,Historical FY-end EV/EBIT; user supplied,user_supplied_unverified,09-30
+Siemens,2025,free_cash_flow_total,10812,EUR million,Siemens__FY2025.pdf,,Total FCF incl discontinued operations; FY2024 reported 9494 despite rounded components summing to 9493,user_supplied_unverified,09-30
+Siemens,2024,free_cash_flow_total,9494,EUR million,Siemens__FY2025.pdf,,Total FCF incl discontinued operations; FY2024 reported 9494 despite rounded components summing to 9493,user_supplied_unverified,09-30
+Siemens,2025,free_cash_flow_discontinued,-192,EUR million,Siemens__FY2025.pdf,,"FCF discontinued operations; FY2024 rounding: 9726-233=9493, reported total 9494",user_supplied_unverified,09-30
+Siemens,2024,free_cash_flow_discontinued,-233,EUR million,Siemens__FY2025.pdf,,"FCF discontinued operations; FY2024 rounding: 9726-233=9493, reported total 9494",user_supplied_unverified,09-30
+Siemens,2025,dividend_per_share_eur,5.35,EUR/share,Siemens__FY2025.pdf,,Dividend approved/paid for respective fiscal year,user_supplied_unverified,09-30
+Siemens,2024,dividend_per_share_eur,5.2,EUR/share,Siemens__FY2025.pdf,,Dividend approved/paid for respective fiscal year,user_supplied_unverified,09-30

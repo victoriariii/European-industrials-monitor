@@ -1,0 +1,7 @@
+company,fiscal_year,currency,revenue,revenue_prior,ebitda,ebit,net_income,net_debt,interest_expense,operating_cash_flow,capex,invested_capital,nopat,market_cap,enterprise_value,order_intake,backlog,source_url,source_page,notes
+Airbus,2025,EUR_m,73420.0,69230.0,,6082.0,5221.0,,,7995.0,3964.0,,,,,,,,,
+Safran,2025,EUR_m,31189.0,27716.0,,4308.0,7177.0,,,5721.0,1800.0,,,,,,,,,
+Siemens,2025,EUR_m,78914.0,75930.0,,10620.0,9620.0,,,13448.0,2445.0,,,,,,,,,
+Airbus,2024,EUR_m,69230.0,,,5304.0,4232.0,,,7402.0,3669.0,,,,,,,,,
+Safran,2024,EUR_m,27716.0,,,4192.0,-667.0,,,4733.0,1544.0,,,,,,,,,
+Siemens,2024,EUR_m,75930.0,,,,8301.0,,,11814.0,2088.0,,,,,,,,,
