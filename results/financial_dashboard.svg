@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="960" viewBox="0 0 1160 960" role="img" aria-label="European industrials financial comparison, fiscal 2024 and 2025">
+<rect x="0" y="0" width="1160" height="960" rx="0" fill="#ffffff" stroke="none"/>
+<rect x="0" y="0" width="1160" height="7" rx="0" fill="#1d4ed8" stroke="none"/>
+<text x="42" y="57" fill="#172033" font-size="27" font-weight="700" text-anchor="start" font-family="Arial,Helvetica,sans-serif">FINANCIAL FUNDAMENTALS</text>
+<text x="42" y="84" fill="#66758b" font-size="15" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Airbus · Safran · Siemens   |   FY2024 vs FY2025   |   € millions</text>
+<rect x="42" y="106" width="1076" height="1" rx="0" fill="#dce4ed" stroke="none"/>
+<rect x="42" y="128" width="342" height="215" rx="12" fill="#ffffff" stroke="#dce4ed"/>
+<rect x="42" y="128" width="342" height="6" rx="3" fill="#2563eb" stroke="none"/>
+<text x="62" y="167" fill="#172033" font-size="21" font-weight="700" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Airbus</text>
+<text x="364" y="166" fill="#66758b" font-size="12" font-weight="600" text-anchor="end" font-family="Arial,Helvetica,sans-serif">FY2025</text>
+<text x="62" y="199" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Revenue</text>
+<text x="364" y="199" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€73,420m</text>
+<rect x="62" y="209" width="302" height="1" rx="0" fill="#eef2f6" stroke="none"/>
+<text x="62" y="236" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">EBITDA</text>
+<text x="364" y="236" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€9,215m</text>
+<rect x="62" y="246" width="302" height="1" rx="0" fill="#eef2f6" stroke="none"/>
+<text x="62" y="273" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Net income</text>
+<text x="364" y="273" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€5,221m</text>
+<rect x="62" y="283" width="302" height="1" rx="0" fill="#eef2f6" stroke="none"/>
+<text x="62" y="310" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Free cash flow</text>
+<text x="364" y="310" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€4,574m</text>
+<rect x="409" y="128" width="342" height="215" rx="12" fill="#ffffff" stroke="#dce4ed"/>
+<rect x="409" y="128" width="342" height="6" rx="3" fill="#0f766e" stroke="none"/>
+<text x="429" y="167" fill="#172033" font-size="21" font-weight="700" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Safran</text>
+<text x="731" y="166" fill="#66758b" font-size="12" font-weight="600" text-anchor="end" font-family="Arial,Helvetica,sans-serif">FY2025</text>
+<text x="429" y="199" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Revenue</text>
+<text x="731" y="199" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€31,189m</text>
+<rect x="429" y="209" width="302" height="1" rx="0" fill="#eef2f6" stroke="none"/>
+<text x="429" y="236" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">EBITDA</text>
+<text x="731" y="236" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€6,202m</text>
+<rect x="429" y="246" width="302" height="1" rx="0" fill="#eef2f6" stroke="none"/>
+<text x="429" y="273" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Net income</text>
+<text x="731" y="273" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€7,177m</text>
+<rect x="429" y="283" width="302" height="1" rx="0" fill="#eef2f6" stroke="none"/>
+<text x="429" y="310" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Free cash flow</text>
+<text x="731" y="310" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€3,921m</text>
+<rect x="776" y="128" width="342" height="215" rx="12" fill="#ffffff" stroke="#dce4ed"/>
+<rect x="776" y="128" width="342" height="6" rx="3" fill="#b45309" stroke="none"/>
+<text x="796" y="167" fill="#172033" font-size="21" font-weight="700" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Siemens</text>
+<text x="1098" y="166" fill="#66758b" font-size="12" font-weight="600" text-anchor="end" font-family="Arial,Helvetica,sans-serif">FY2025</text>
+<text x="796" y="199" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Revenue</text>
+<text x="1098" y="199" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€78,914m</text>
+<rect x="796" y="209" width="302" height="1" rx="0" fill="#eef2f6" stroke="none"/>
+<text x="796" y="236" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">EBITDA</text>
+<text x="1098" y="236" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€13,380m</text>
+<rect x="796" y="246" width="302" height="1" rx="0" fill="#eef2f6" stroke="none"/>
+<text x="796" y="273" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Net income</text>
+<text x="1098" y="273" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€9,620m</text>
+<rect x="796" y="283" width="302" height="1" rx="0" fill="#eef2f6" stroke="none"/>
+<text x="796" y="310" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Free cash flow</text>
+<text x="1098" y="310" fill="#172033" font-size="15" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€10,812m</text>
+<text x="42" y="392" fill="#172033" font-size="22" font-weight="700" text-anchor="start" font-family="Arial,Helvetica,sans-serif">YEAR-ON-YEAR COMPARISON</text>
+<text x="42" y="417" fill="#66758b" font-size="13" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">FY2024 shown in pale bars; FY2025 shown in company color. Values are in € millions.</text>
+<rect x="42" y="439" width="526" height="205" rx="10" fill="#ffffff" stroke="#dce4ed"/>
+<text x="62" y="471" fill="#172033" font-size="17" font-weight="700" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Revenue</text>
+<text x="62" y="518" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Airbus</text>
+<rect x="167" y="505" width="210.54819170235953" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="167" y="520" width="223.29117773779052" height="11" rx="3" fill="#2563eb" stroke="none"/>
+<text x="552" y="510" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€69,230m</text>
+<text x="552" y="525" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€73,420m</text>
+<text x="62" y="561" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Safran</text>
+<rect x="167" y="548" width="84.29226753174342" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="167" y="563" width="94.85465189953621" height="11" rx="3" fill="#0f766e" stroke="none"/>
+<text x="552" y="553" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€27,716m</text>
+<text x="552" y="568" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€31,189m</text>
+<text x="62" y="604" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Siemens</text>
+<rect x="167" y="591" width="230.92480421724915" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="167" y="606" width="240.0" height="11" rx="3" fill="#b45309" stroke="none"/>
+<text x="552" y="596" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€75,930m</text>
+<text x="552" y="611" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€78,914m</text>
+<rect x="593" y="439" width="526" height="205" rx="10" fill="#ffffff" stroke="#dce4ed"/>
+<text x="613" y="471" fill="#172033" font-size="17" font-weight="700" text-anchor="start" font-family="Arial,Helvetica,sans-serif">EBITDA</text>
+<text x="613" y="518" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Airbus</text>
+<rect x="718" y="505" width="144.19091109965382" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="718" y="520" width="162.89312808426016" height="11" rx="3" fill="#2563eb" stroke="none"/>
+<text x="1103" y="510" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€8,157m</text>
+<text x="1103" y="525" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€9,215m</text>
+<text x="613" y="561" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Safran</text>
+<rect x="718" y="548" width="99.09700228327318" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="718" y="563" width="109.63246667157694" height="11" rx="3" fill="#0f766e" stroke="none"/>
+<text x="1103" y="553" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€5,606m</text>
+<text x="1103" y="568" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€6,202m</text>
+<text x="613" y="604" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Siemens</text>
+<rect x="718" y="591" width="240.0" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="718" y="606" width="236.51764012668482" height="11" rx="3" fill="#b45309" stroke="none"/>
+<text x="1103" y="596" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€13,577m</text>
+<text x="1103" y="611" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€13,380m</text>
+<rect x="42" y="663" width="526" height="205" rx="10" fill="#ffffff" stroke="#dce4ed"/>
+<text x="62" y="695" fill="#172033" font-size="17" font-weight="700" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Net income</text>
+<text x="62" y="742" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Airbus</text>
+<rect x="167" y="729" width="105.58004158004158" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="167" y="744" width="130.25363825363826" height="11" rx="3" fill="#2563eb" stroke="none"/>
+<text x="552" y="734" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€4,232m</text>
+<text x="552" y="749" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€5,221m</text>
+<text x="62" y="785" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Safran</text>
+<rect x="167" y="772" width="16.64033264033264" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<text x="188.64033264033264" y="782" fill="#b91c1c" font-size="12" font-weight="700" text-anchor="start" font-family="Arial,Helvetica,sans-serif">−</text>
+<rect x="167" y="787" width="179.05197505197503" height="11" rx="3" fill="#0f766e" stroke="none"/>
+<text x="552" y="777" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">−€667m</text>
+<text x="552" y="792" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€7,177m</text>
+<text x="62" y="828" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Siemens</text>
+<rect x="167" y="815" width="207.0935550935551" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="167" y="830" width="240.0" height="11" rx="3" fill="#b45309" stroke="none"/>
+<text x="552" y="820" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€8,301m</text>
+<text x="552" y="835" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€9,620m</text>
+<rect x="593" y="663" width="526" height="205" rx="10" fill="#ffffff" stroke="#dce4ed"/>
+<text x="613" y="695" fill="#172033" font-size="17" font-weight="700" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Free cash flow</text>
+<text x="613" y="742" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Airbus</text>
+<rect x="718" y="729" width="82.86348501664817" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="718" y="744" width="101.53163152053274" height="11" rx="3" fill="#2563eb" stroke="none"/>
+<text x="1103" y="734" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€3,733m</text>
+<text x="1103" y="749" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€4,574m</text>
+<text x="613" y="785" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Safran</text>
+<rect x="718" y="772" width="70.78801331853496" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="718" y="787" width="87.03662597114318" height="11" rx="3" fill="#0f766e" stroke="none"/>
+<text x="1103" y="777" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€3,189m</text>
+<text x="1103" y="792" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€3,921m</text>
+<text x="613" y="828" fill="#172033" font-size="13" font-weight="600" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Siemens</text>
+<rect x="718" y="815" width="210.74361820199778" height="11" rx="3" fill="#dce5f0" stroke="none"/>
+<rect x="718" y="830" width="240.0" height="11" rx="3" fill="#b45309" stroke="none"/>
+<text x="1103" y="820" fill="#66758b" font-size="11" font-weight="400" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€9,494m</text>
+<text x="1103" y="835" fill="#172033" font-size="11" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">€10,812m</text>
+<rect x="42" y="899" width="1076" height="1" rx="0" fill="#dce4ed" stroke="none"/>
+<text x="42" y="925" fill="#66758b" font-size="12" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">Source: reviewed company FY2024–FY2025 financial data. Company accounting definitions may differ.</text>
+<text x="42" y="944" fill="#66758b" font-size="11" font-weight="400" text-anchor="start" font-family="Arial,Helvetica,sans-serif">FCF definitions differ: Airbus before customer financing; Siemens total FCF; Safran reported FCF.</text>
+</svg>
