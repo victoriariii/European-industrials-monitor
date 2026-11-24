@@ -37,6 +37,16 @@ The score is a comparative research tool, not a forecast or investment recommend
 
 ![European industrials market scorecard](results/market_scorecard.svg)
 
+## Financial Fundamentals Dashboard
+
+FY2024–FY2025 financial comparison of Airbus, Safran and Siemens.
+
+![European Industrials Financial Dashboard](results/financial_dashboard.svg)
+
+The dashboard compares revenue, EBITDA, net income and free cash flow using company financial disclosures.
+
+Financial figures are maintained separately from the automatically refreshed market data.
+
 ## Run it locally
 
 ```bash
